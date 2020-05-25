@@ -1,4 +1,4 @@
-## Welcome to Unbabel's AI Reading Group Page
+# Welcome to Unbabel's AI Reading Group Page
 
 We have a weekly gathering to discuss recent papers in NLP and AI. This are very informal and relaxed reading meetings, so slides are not required although presenters usually make them. Below is the past schedule of presented papers.
 
