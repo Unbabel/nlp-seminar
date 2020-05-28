@@ -4,11 +4,13 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 ## Schedule
 
-### <span id="anchor"></span>2020-05-25
+### <span id="anchor"></span>2020-06-01
 
 @jose.souza
 
 Paper: [\[2004.12681\] Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://arxiv.org/abs/2004.12681)
+
+### <span id="anchor"></span>2020-05-25
 
 @Ricardo
 
