@@ -6,10 +6,16 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 ### <span id="anchor"></span>2020-05-25
 
+@jose.souza
+
+Paper: [\[2004.12681\] Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://arxiv.org/abs/2004.12681)
+
 @Ricardo
 
 Paper: [\[2004.13637\] Recipes for building an open-domain
 chatbot](https://arxiv.org/abs/2004.13637)
+
+Slides: [retrival vs generative chatbots](https://drive.google.com/file/d/17UQPPWIdsa7MSO9LhFO76t0_o7MjhTdM/view?usp=sharing)
 
 ### <span id="anchor-1"></span>2020-05-18
 
