@@ -4,13 +4,42 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 ## Schedule
 
-### <span id="anchor"></span>2020-06-01
+### 2020-06-22
+
+Catarina F. and Ricardo
+
+Paper: [\[2006.06264\] Tangled up in BLEU](https://arxiv.org/abs/2006.06264)
+
+Slides: TBL
+
+
+### 2020-06-15
+
+Austin
+
+Paper: [Mirror-Generative Neural Machine Translation](https://openreview.net/pdf?id=HkxQRTNYPH)
+
+Slides: https://docs.google.com/presentation/d/1y8Ex1t9KnQ96OZmbhKBPk-1zuj8MVN3cCuPYeXb36xU/view
+
+
+### 2020-06-08
+
+Craig
+
+Paper: [On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation](https://arxiv.org/abs/2005.01196)
+
+Slides: https://docs.google.com/presentation/d/1nxg7WiyVu2r7AH8ahMF8NmcrRVjzznA6Y-tlUcQddWM/view
+
+
+### 2020-06-01
 
 @jose.souza
 
 Paper: [\[2004.12681\] Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://arxiv.org/abs/2004.12681)
 
-### <span id="anchor"></span>2020-05-25
+Slides: 
+
+### 2020-05-25
 
 @Ricardo
 
@@ -19,7 +48,7 @@ chatbot](https://arxiv.org/abs/2004.13637)
 
 Slides: [retrival vs generative chatbots](https://drive.google.com/file/d/17UQPPWIdsa7MSO9LhFO76t0_o7MjhTdM/view?usp=sharing)
 
-### <span id="anchor-1"></span>2020-05-18
+### 2020-05-18
 
 @Daan and @Fabio
 
@@ -31,7 +60,7 @@ distillation](https://arxiv.org/abs/2002.11531)
 Slides: [RG - Ensemble Distribution
 Distillation](https://docs.google.com/presentation/d/1fEJgP-liWBpPd3HMNImt9eUNXpyJCatkmcH-jAfjycM/edit?usp=sharing)
 
-### <span id="anchor-2"></span>2020-05-11
+### 2020-05-11
 
 @Patrick
 
@@ -41,7 +70,7 @@ Structure](https://arxiv.org/abs/2004.03061)
 Slides: [Information-Theoretic Probing for Linguistic
 Structure](https://docs.google.com/presentation/d/1v4dFsjS78yUjytuCmQPnqYFKnSsbl5W8AL3NtIKBtjU/edit?usp=sharing)
 
-### <span id="anchor-3"></span>2020-05-04
+### 2020-05-04
 
 @Daan
 
@@ -54,7 +83,7 @@ MDL](https://lena-voita.github.io/posts/mdl_probes.html)
 Slides: [Information-Theoretic
 Probing](https://docs.google.com/presentation/d/1lDDK2t-QWDz7UjBr0M9AX1p6y7CchHLl6ihgDB70Hik/edit?usp=sharing)
 
-### <span id="anchor-4"></span>2020-03-30
+### 2020-03-30
 
 Pedro Lobato
 
@@ -64,7 +93,7 @@ than Generators](https://openreview.net/pdf?id=r1xMH1BtvB)
 Slides: [Google
 Slides](https://docs.google.com/presentation/d/1I1MsGSgIFx_bDJ808QmRosxpliCJmApKhBSE_et2zEw/edit?usp=sharing)
 
-### <span id="anchor-5"></span>2020-03-09
+### 2020-03-09
 
 @Katya
 
