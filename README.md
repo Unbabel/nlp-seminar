@@ -10,7 +10,7 @@ Catarina F. and Ricardo
 
 Paper: [\[2006.06264\] Tangled up in BLEU](https://arxiv.org/abs/2006.06264)
 
-Slides: TBL
+Slides: https://drive.google.com/file/d/15Z-XlLTmQuIPcWvg83o99_NyqVg0uCxZ/view
 
 
 ### 2020-06-15
@@ -37,7 +37,7 @@ Slides: https://docs.google.com/presentation/d/1nxg7WiyVu2r7AH8ahMF8NmcrRVjzznA6
 
 Paper: [\[2004.12681\] Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://arxiv.org/abs/2004.12681)
 
-Slides: 
+Slides: https://docs.google.com/presentation/d/1yrCBwarehq06ifm6TFU7FxSZ_TQTJpGmAXy4bbcFn3I/view
 
 ### 2020-05-25
 
