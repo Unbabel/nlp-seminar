@@ -10,7 +10,7 @@ Catarina F. and Ricardo
 
 Paper: [\[2006.06264\] Tangled up in BLEU](https://arxiv.org/abs/2006.06264)
 
-Slides: https://drive.google.com/file/d/15Z-XlLTmQuIPcWvg83o99_NyqVg0uCxZ/view
+[Slides](https://drive.google.com/file/d/15Z-XlLTmQuIPcWvg83o99_NyqVg0uCxZ/view)
 
 
 ### 2020-06-15
@@ -19,7 +19,7 @@ Austin
 
 Paper: [Mirror-Generative Neural Machine Translation](https://openreview.net/pdf?id=HkxQRTNYPH)
 
-Slides: https://docs.google.com/presentation/d/1y8Ex1t9KnQ96OZmbhKBPk-1zuj8MVN3cCuPYeXb36xU/view
+[Slides](https://docs.google.com/presentation/d/1y8Ex1t9KnQ96OZmbhKBPk-1zuj8MVN3cCuPYeXb36xU/view)
 
 
 ### 2020-06-08
@@ -28,7 +28,7 @@ Craig
 
 Paper: [On the Limitations of Cross-lingual Encoders as Exposed by Reference-Free Machine Translation Evaluation](https://arxiv.org/abs/2005.01196)
 
-Slides: https://docs.google.com/presentation/d/1nxg7WiyVu2r7AH8ahMF8NmcrRVjzznA6Y-tlUcQddWM/view
+[Slides](https://docs.google.com/presentation/d/1nxg7WiyVu2r7AH8ahMF8NmcrRVjzznA6Y-tlUcQddWM/view)
 
 
 ### 2020-06-01
@@ -37,7 +37,7 @@ Slides: https://docs.google.com/presentation/d/1nxg7WiyVu2r7AH8ahMF8NmcrRVjzznA6
 
 Paper: [\[2004.12681\] Lexically Constrained Neural Machine Translation with Levenshtein Transformer](https://arxiv.org/abs/2004.12681)
 
-Slides: https://docs.google.com/presentation/d/1yrCBwarehq06ifm6TFU7FxSZ_TQTJpGmAXy4bbcFn3I/view
+[Slides](https://docs.google.com/presentation/d/1yrCBwarehq06ifm6TFU7FxSZ_TQTJpGmAXy4bbcFn3I/view)
 
 ### 2020-05-25
 
