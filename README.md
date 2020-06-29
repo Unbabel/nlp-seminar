@@ -3,7 +3,9 @@
 We have a weekly gathering to discuss recent papers in NLP and AI. These are very informal and relaxed reading meetings, so slides are not required although presenters usually make them.
 
 ## Schedule
-###
+
+### 2020-06-29
+
 Patrick Fernandes
 
 Paper: [\[2005.02354\] It's Easier to Translate out of English than into it: Measuring Neural Translation Difficulty by Cross-Mutual Information](https://arxiv.org/abs/2005.02354)
