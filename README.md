@@ -2,7 +2,24 @@
 
 We have a weekly gathering to discuss recent papers in NLP and AI. These are very informal and relaxed reading meetings, so slides are not required although presenters usually make them.
 
+
 ## Schedule
+
+### 2020-07-13
+
+Ricardo and Catarina F.
+
+Recent trends in Evaluation: ACL notes on Natural Language Generation Evaluation (focus on MT)
+
+[Slides]()
+
+### 2020-07-06
+
+Invited talk from [Sean Welleck](https://cs.nyu.edu/~welleck/). where he talked about his current work on Natural Language Generation:
+Some interesting work by Sean: 
+- [Consistency of a Recurrent Language Model With Respect to Incomplete Decoding](https://arxiv.org/pdf/2002.02492.pdf)
+- [Neural Text deGeneration with Unlikelihood Training](https://arxiv.org/pdf/1908.04319.pdf)
+- [Dialogue Natural Language Inference](https://www.aclweb.org/anthology/P19-1363.pdf)
 
 ### 2020-06-29
 
