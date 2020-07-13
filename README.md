@@ -11,7 +11,7 @@ Ricardo and Catarina F.
 
 Recent trends in Evaluation: ACL notes on Natural Language Generation Evaluation (focus on MT)
 
-[Slides]()
+[Slides](https://docs.google.com/presentation/d/1zwyQslY-pQ2ovch2v8wwjvpIe7DvNIFGOA_y3tN04Vo/edit?usp=sharing)
 
 ### 2020-07-06
 
