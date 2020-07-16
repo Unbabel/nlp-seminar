@@ -5,6 +5,14 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 ## Schedule
 
+### 2020-07-20
+
+Daan Van Stigt
+
+[Posterior Control of Blackbox Generation](https://www.aclweb.org/anthology/2020.acl-main.243/)
+
+[Slides]()
+
 ### 2020-07-13
 
 Ricardo and Catarina F.
