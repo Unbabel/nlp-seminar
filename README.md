@@ -5,6 +5,12 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 ## Schedule
 
+### 2020-08-04
+
+Lena Voita
+
+**Note:** The paper presented by lena is still under review, thus it is not publicly available. Meanwhile check out her page: [Lena Voita published work:](https://lena-voita.github.io/papers.html)
+
 ### 2020-07-27
 
 Kyunghyun Cho
