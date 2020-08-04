@@ -9,7 +9,8 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 Lena Voita
 
-**Note:** The paper presented by lena is still under review, thus it is not publicly available. Meanwhile check out her page: [Lena Voita published work:](https://lena-voita.github.io/papers.html)
+**Note:** The paper presented by Lena is still under review, thus it is not publicly available. 
+Meanwhile check out her page: [Lena Voita published work](https://lena-voita.github.io/papers.html)
 
 ### 2020-07-27
 
