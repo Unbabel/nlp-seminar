@@ -11,6 +11,7 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 Miguel Vera
 
 **ACL 2020: Best paper award:** [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://www.aclweb.org/anthology/2020.acl-main.442.pdf)
+
 [Video Recording](https://drive.google.com/file/d/1cIi5oNYAADpiAKw6ZEXozwuLwsv06QGX/view?usp=sharing)
 
 ### 2020-08-04
