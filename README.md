@@ -42,8 +42,6 @@ Kyunghyun Cho
 
 [LxMLS 2020 talk: Question Answering and Generation for Evaluating Summarization](https://www.youtube.com/channel/UCkVFZWgT1jR75UvSLGP9_mw)
 
-**Note:** This talk will start 30 minutes earlier!
-
 ### 2020-07-20
 
 Daan Van Stigt
