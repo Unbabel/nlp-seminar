@@ -5,6 +5,21 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 ## Schedule
 
+### 2020-08-24
+
+Daan Van Stigt
+
+1. [SimAlign: High Quality Word Alignments without Parallel Training Data using Static and Contextualized Embeddings multilingual-BERT](https://arxiv.org/pdf/2004.08728.pdf)
+2. [Multilingual Alignment of Contextual Word Representations](https://iclr.cc/virtual_2020/poster_r1xCMyBtPS.html)
+
+[Slides](https://docs.google.com/presentation/u/1/d/1JH7YOkd0JV0U_chQmXbUwDg-x8eUh0gVwChETIoWoEM/edit?usp=sharing)
+
+### 2020-08-17
+
+Pedro Mota
+
+[End-to-End Neural Word Alignment Outperforms GIZA++](https://arxiv.org/abs/2004.14675)
+[Slides](https://drive.google.com/file/d/1JSKVOAUN_h8d_DWTs3V7uqVWT6O4ms4Y/view)
 
 ### 2020-08-10
 
