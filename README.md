@@ -5,6 +5,24 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 ## Schedule
 
+### 2020-09-21
+
+Daan Van Stigt and Jose Camargo de Souza
+
+[Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325)
+
+### 2020-09-14
+
+TODO:
+
+### 2020-09-07
+
+Rita Costa
+
+[End-to-End Neural Pipeline for Goal-Oriented Dialogue Systems using GPT-2](https://www.aclweb.org/anthology/2020.acl-main.54.pdf)
+
+[Slides](https://docs.google.com/presentation/d/1xLVntIo6LrJosqdQDVN_YHnwRu8pC3NbvHiSqVX6UwU/edit?usp=sharing)
+
 ### 2020-08-24
 
 Daan Van Stigt
