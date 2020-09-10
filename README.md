@@ -13,7 +13,13 @@ Daan Van Stigt and Jose Camargo de Souza
 
 ### 2020-09-14
 
-TODO:
+Ricardo Rei
+
+[An Overview on Adapters: What they are and how can we use them for NLG]()
+- [Parameter-Efficient Transfer Learning for NLP](https://arxiv.org/abs/1902.00751)
+- [Simple, Scalable Adaptation for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1165.pdf)
+- [Cross-Domain Training for Goal-Oriented Conversational Agents](https://www.aclweb.org/anthology/R19-1017.pdf)
+
 
 ### 2020-09-07
 
