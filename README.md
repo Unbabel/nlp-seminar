@@ -20,6 +20,7 @@ Ricardo Rei
 - [Simple, Scalable Adaptation for Neural Machine Translation](https://www.aclweb.org/anthology/D19-1165.pdf)
 - [The Adapter-Bot: All-In-One Controllable Conversational Model](https://arxiv.org/abs/2008.12579)
 
+[Slides](https://docs.google.com/presentation/d/1IAyxBQ_ZaK5fuanc34Qp3B0DogRnA04-56y9YmiCjXY/edit?usp=sharing)
 
 ### 2020-09-07
 
