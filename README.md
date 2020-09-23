@@ -2,6 +2,7 @@
 
 We have a weekly gathering to discuss recent papers in NLP and AI. These are very informal and relaxed reading meetings, so slides are not required although presenters usually make them.
 
+[Meeting Link](meet.google.com/jxc-rmkp-ygv)
 
 ## Schedule
 
