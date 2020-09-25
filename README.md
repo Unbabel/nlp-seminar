@@ -10,8 +10,7 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 Ricardo Rei and Catarina Farinha
 
-[COMET: A Neural Framework for MT Evaluation](https://arxiv.org/pdf/2009.09025.pdf)
-+ some findings from participatiing in the WMT20 Metrics shared task.
+[COMET: A Neural Framework for MT Evaluation](https://arxiv.org/pdf/2009.09025.pdf) + some findings from participatiing in the WMT20 Metrics shared task.
 
 [Slides](https://docs.google.com/presentation/d/1N79-ZDNVTJCfEgGF-ML7ktS76saqkQa8V1NKk-B5EYU/edit?usp=sharing)
 
