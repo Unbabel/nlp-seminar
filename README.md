@@ -2,11 +2,11 @@
 
 We have a weekly gathering to discuss recent papers in NLP and AI. These are very informal and relaxed reading meetings, so slides are not required although presenters usually make them.
 
-[Meeting Link](meet.google.com/jxc-rmkp-ygv)
+[Meeting Link](https://meet.google.com/jxc-rmkp-ygv)
 
 ## Schedule
 
-### 2020-09-21
+### 2020-09-28
 
 Ricardo Rei and Catarina Farinha
 
