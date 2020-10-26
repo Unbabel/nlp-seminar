@@ -6,6 +6,12 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 
 ## Schedule
 
+### 2020-11-02
+
+José Camargo de Souza
+
+[Nearest Neighbor Machine Translation](https://arxiv.org/abs/2010.00710)
+
 ### 2020-10-26
 Alon Lavie, Craig Stewart and Amin Farajian
 
