@@ -10,6 +10,7 @@ We have a weekly gathering to discuss recent papers in NLP and AI. These are ver
 Alon Lavie, Craig Stewart and Amin Farajian
 
 [AMTA2020 Findings](https://amtaweb.org/)
+
 [Slides](https://docs.google.com/presentation/d/1USheMoLbRIsSIlnX7SSP1L2ru84BnFZL1iPhtT7lOXY/edit?usp=sharing)
 
 ### 2020-09-28
